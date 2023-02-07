@@ -6,3 +6,5 @@ Alumno de Ingenieria Informática de la Universidad de Jaén.
 * **Web**: Sin web
 * **GitHub**: https://github.com/Fjml0023
 * **Trello**: https://trello.com/b/njXoWB4r/practica1-da
+
+<img src='/Trello inicial.PNG' width='origin'>
