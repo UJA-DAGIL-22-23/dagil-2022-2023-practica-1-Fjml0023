@@ -9,7 +9,7 @@ Tus tareas consisten en:
 <img src='/vrivas-2022.png' width='200px'>
 
 Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
+* **Correo**: fjml0023@ujaen.es
+* **Web**: Sin web
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
