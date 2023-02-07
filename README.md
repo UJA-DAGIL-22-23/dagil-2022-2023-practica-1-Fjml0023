@@ -6,8 +6,7 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Francisco javier Martinez Lomas
-<img src='![IMG_20220617_163200_834](https://user-images.githubusercontent.com/99737236/217246571-825fc35c-3a42-4e12-ba9b-7dc1c75b5de5.jpg)
-' width='200px'>
+<img src='/vrivas-2022.png' width='200px'>
 
 Alumno de Ingenieria Informática de la Universidad de Jaén.
 * **Correo**: fjml0023@ujaen.es
