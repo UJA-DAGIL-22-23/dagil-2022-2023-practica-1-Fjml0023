@@ -11,5 +11,5 @@ Tus tareas consisten en:
 Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: fjml0023@ujaen.es
 * **Web**: Sin web
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **GitHub**: https://github.com/Fjml0023
+* **Trello**: https://trello.com/b/njXoWB4r/practica1-da
